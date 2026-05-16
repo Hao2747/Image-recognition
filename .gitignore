@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+image_reco/
+
+# MNIST download cache
+mnist_data/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

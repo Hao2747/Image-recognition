@@ -1,0 +1,10 @@
+numpy<2
+Pillow
+opencv-python-headless
+tflite-runtime
+
+
+
+# PC side only
+# keras
+tensorflow-cpu

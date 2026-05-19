@@ -7,6 +7,7 @@ image_reco/
 
 # MNIST download cache
 mnist_data/
+output/generated_models/
 
 # IDE
 .vscode/
